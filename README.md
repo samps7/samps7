@@ -1,5 +1,5 @@
 ## Introduction
-Hi, I'm Samuel Sovi, a Masters student at UC Berkeley pursuing an M.Eng. in Electrical Engineering & Computer Science with a Concentration in Data Science. With a strong foundation in Computer Science from Gonzaga University, I'm passionate about continuous learning and tackling new challenges in the ever-evolving tech field. 
+Hi, I'm Samuel Sovi, a Masters student at UC Berkeley pursuing an M.Eng. in Electrical Engineering & Computer Science with a Concentration in Data Science. With a strong foundation in Computer Science from my Bachelor's Degree from Gonzaga University, I'm passionate about continuous learning and tackling new challenges in the ever-evolving tech field. 
 
 My previous internships at [KLA Corporation](https://www.kla.com/) and [Noel Technologies](https://noeltech.com/) have honed my ability to quickly adapt to new technologies and solve complex problems. My expertise spans various programming languages and tools, including Python, Java, C++, and SQL, complemented by a keen interest in AI and machine learning. My background in AI has been enhanced through my capstone projects, including fine-tuning Large Language Models for long-form text generation with [Asurion](https://www.asurion.com/) and developing an AI-powered filtering tool for [Boeing](https://www.boeing.com/) to protect intellectual property leaks. 
 
