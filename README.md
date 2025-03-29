@@ -3,7 +3,7 @@ Hi, I'm Samuel Sovi, a Masters student at UC Berkeley pursuing an M.Eng. in Elec
 
 My previous internships at [KLA Corporation](https://www.kla.com/) and [Noel Technologies](https://noeltech.com/) have honed my ability to quickly adapt to new technologies and solve complex problems. My expertise spans various programming languages and tools, including Python, Java, C++, and SQL, complemented by a keen interest in AI and machine learning. My background in AI has been enhanced through my capstone projects, including fine-tuning Large Language Models for long-form text generation with [Asurion](https://www.asurion.com/) and developing an AI-powered filtering tool for [Boeing](https://www.boeing.com/) to protect intellectual property leaks. 
 
-(Additional Note: Many of my class/capstone projects cannot be displayed on my profile due to project re-use/NDAs)
+(Additional Note: Many of my class/capstone projects cannot be displayed on my profile due to project topic re-use/NDAs)
 
 Feel free to reach out to me at [ssovi@berkeley.edu](mailto:ssovi@berkeley.edu).
 
