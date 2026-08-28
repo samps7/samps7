@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, I'm Samuel Sovi, an Applications Engineer II at [Oracle](https://www.oracle.com/) and a UC Berkeley alumnus with a Master of Engineering in Electrical Engineering & Computer Science (Concentration in Data Science)[cite: 1]. Prior to Berkeley, I earned my B.S. in Computer Science with a Minor in Applied Mathematics from Gonzaga University[cite: 1].
+Hi, I'm Samuel Sovi, an Applications Engineer II at [Oracle](https://www.oracle.com/) and a [UC Berkeley](https://www.berkeley.edu/)) alumnus with a Master of Engineering in Electrical Engineering & Computer Science (Concentration in Data Science). Prior to Berkeley, I earned my B.S. in Computer Science (Concentration in Software Security) with a Minor in Applied Mathematics from [Gonzaga University](https://www.gonzaga.edu/).
 
 At Oracle, my work centers on machine learning and applied AI—developing end-to-end RAG ingestion pipelines for vector search, building intelligent Model Context Protocol (MCP) servers, and designing evaluation frameworks to benchmark agent accuracy.
 
