@@ -14,6 +14,8 @@ Feel free to reach out to me at [ssovi@berkeley.edu](mailto:ssovi@berkeley.edu).
 <!--
 **samps7/samps7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Consider: adding additional context for grad projects
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
